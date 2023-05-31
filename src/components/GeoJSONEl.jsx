@@ -51,6 +51,7 @@ const GeoJSONEl = ({ geojson }) => {
               feature.properties.Name +
               "</a>"
           );
+          layer.re;
 
           console.log(feature, "feature");
           console.log(layer, "layer");
