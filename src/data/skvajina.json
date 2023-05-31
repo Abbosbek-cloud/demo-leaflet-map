@@ -1,0 +1,4469 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.98619023300013, 38.5190828150001, 0]
+      },
+      "properties": {
+        "Name": "1-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.96791723500014, 38.533230525000114, 0]
+      },
+      "properties": {
+        "Name": "2-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.98854055700015, 38.48826289700007, 0]
+      },
+      "properties": {
+        "Name": "3-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.02007251100015, 38.49741031400007, 0]
+      },
+      "properties": {
+        "Name": "4-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.95164046200013, 38.508870285000086, 0]
+      },
+      "properties": {
+        "Name": "5-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.98997802800012, 38.45114309700009, 0]
+      },
+      "properties": {
+        "Name": "6-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.95600889500015, 38.55004423400007, 0]
+      },
+      "properties": {
+        "Name": "7-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.95765244900015, 38.47455859100009, 0]
+      },
+      "properties": {
+        "Name": "8-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.00108761100013, 38.538418200000116, 0]
+      },
+      "properties": {
+        "Name": "9-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.93170811900013, 38.5270497120001, 0]
+      },
+      "properties": {
+        "Name": "10-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.01981305600009, 38.520749799000065, 0]
+      },
+      "properties": {
+        "Name": "11-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.02319486400012, 38.470902123000066, 0]
+      },
+      "properties": {
+        "Name": "12-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.9885133690001, 38.5623727610001, 0]
+      },
+      "properties": {
+        "Name": "13-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.92815792300014, 38.54869671900011, 0]
+      },
+      "properties": {
+        "Name": "14-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.92391987500014, 38.512902997000054, 0]
+      },
+      "properties": {
+        "Name": "15-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.0419815730001, 38.51105934600005, 0]
+      },
+      "properties": {
+        "Name": "16-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.94826847500015, 38.57544896500012, 0]
+      },
+      "properties": {
+        "Name": "17-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.04597505900011, 38.55003138300007, 0]
+      },
+      "properties": {
+        "Name": "18-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.06258771900015, 38.49064937000006, 0]
+      },
+      "properties": {
+        "Name": "19-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.0244900250001, 38.450291122000095, 0]
+      },
+      "properties": {
+        "Name": "20-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.90556792100013, 38.53519646600009, 0]
+      },
+      "properties": {
+        "Name": "21-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.89282594100014, 38.5537763360001, 0]
+      },
+      "properties": {
+        "Name": "22-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.8882713120001, 38.5205001420001, 0]
+      },
+      "properties": {
+        "Name": "23-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.86864264000015, 38.5342184250001, 0]
+      },
+      "properties": {
+        "Name": "24-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.99067918700014, 38.52597437400007, 0]
+      },
+      "properties": {
+        "Name": "25-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.02515124300011, 38.56387901800012, 0]
+      },
+      "properties": {
+        "Name": "26-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.92006852100015, 38.56733494500006, 0]
+      },
+      "properties": {
+        "Name": "27-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.06793427800012, 38.5332735000001, 0]
+      },
+      "properties": {
+        "Name": "28-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.96042976000012, 38.4605056130001, 0]
+      },
+      "properties": {
+        "Name": "29-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.9389748380001, 38.479082741000106, 0]
+      },
+      "properties": {
+        "Name": "30-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.88211349400014, 38.50240937400006, 0]
+      },
+      "properties": {
+        "Name": "31-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.85287811100012, 38.52553969400006, 0]
+      },
+      "properties": {
+        "Name": "32-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.9488296360001, 38.47994896100008, 0]
+      },
+      "properties": {
+        "Name": "33-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.91235609700011, 38.4894041050001, 0]
+      },
+      "properties": {
+        "Name": "34-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.8884256140001, 38.480428401000076, 0]
+      },
+      "properties": {
+        "Name": "35-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.0911834260001, 38.542985735000094, 0]
+      },
+      "properties": {
+        "Name": "36-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.04135077800011, 38.531767583000075, 0]
+      },
+      "properties": {
+        "Name": "37-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.99802836200014, 38.57873399500009, 0]
+      },
+      "properties": {
+        "Name": "38-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.0700002380001, 38.55512071400008, 0]
+      },
+      "properties": {
+        "Name": "39-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.97572104500013, 38.58429900000008, 0]
+      },
+      "properties": {
+        "Name": "40-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.02461850300013, 38.5827676860001, 0]
+      },
+      "properties": {
+        "Name": "41-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.05733782900013, 38.5691842530001, 0]
+      },
+      "properties": {
+        "Name": "42-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.04869699100011, 38.55165097900009, 0]
+      },
+      "properties": {
+        "Name": "43-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.98610795600014, 38.511811088000094, 0]
+      },
+      "properties": {
+        "Name": "50-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.94754280700012, 38.52340133300007, 0]
+      },
+      "properties": {
+        "Name": "51-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.96855484300012, 38.54891444500007, 0]
+      },
+      "properties": {
+        "Name": "52-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.97260472700009, 38.52813796400009, 0]
+      },
+      "properties": {
+        "Name": "53-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.98119528400015, 38.52290916600006, 0]
+      },
+      "properties": {
+        "Name": "54-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.98304809400015, 38.53101725700006, 0]
+      },
+      "properties": {
+        "Name": "55-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.9642505760001, 38.52734713400007, 0]
+      },
+      "properties": {
+        "Name": "56-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.96480930100013, 38.529521615000114, 0]
+      },
+      "properties": {
+        "Name": "56БИС-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.97211955500013, 38.52058711700009, 0]
+      },
+      "properties": {
+        "Name": "57-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.95900456300012, 38.5366647660001, 0]
+      },
+      "properties": {
+        "Name": "59-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.95902931000013, 38.53247478900008, 0]
+      },
+      "properties": {
+        "Name": "61-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.9960460420001, 38.5198934590001, 0]
+      },
+      "properties": {
+        "Name": "63-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.99131578200013, 38.512398313000105, 0]
+      },
+      "properties": {
+        "Name": "64-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.98040046500012, 38.51690803900008, 0]
+      },
+      "properties": {
+        "Name": "65-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.96092515200013, 38.51083432700008, 0]
+      },
+      "properties": {
+        "Name": "67-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.97719883300012, 38.5076783970001, 0]
+      },
+      "properties": {
+        "Name": "68-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.95349754900015, 38.51863629100011, 0]
+      },
+      "properties": {
+        "Name": "69-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.95654668600015, 38.523435093000074, 0]
+      },
+      "properties": {
+        "Name": "70-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.90680563600013, 38.53577609800008, 0]
+      },
+      "properties": {
+        "Name": "71-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.9073857900001, 38.533198912000096, 0]
+      },
+      "properties": {
+        "Name": "72-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.94908672200013, 38.4988266340001, 0]
+      },
+      "properties": {
+        "Name": "73-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.88886872100012, 38.50929523500006, 0]
+      },
+      "properties": {
+        "Name": "76-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.89778223700011, 38.516730529000064, 0]
+      },
+      "properties": {
+        "Name": "77-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.88822516100011, 38.52177235300012, 0]
+      },
+      "properties": {
+        "Name": "79-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.8871464570001, 38.51958126200005, 0]
+      },
+      "properties": {
+        "Name": "80-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.88591760300011, 38.51948144400009, 0]
+      },
+      "properties": {
+        "Name": "81-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.89096781000012, 38.5372946950001, 0]
+      },
+      "properties": {
+        "Name": "83-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.89092009400015, 38.53867301500005, 0]
+      },
+      "properties": {
+        "Name": "84-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.89231655700014, 38.53939185200009, 0]
+      },
+      "properties": {
+        "Name": "86-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.88664581700012, 38.521456951000104, 0]
+      },
+      "properties": {
+        "Name": "87-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.92387805700015, 38.534185048000076, 0]
+      },
+      "properties": {
+        "Name": "92-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.9435498850001, 38.554183113000114, 0]
+      },
+      "properties": {
+        "Name": "96-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.0370089870001, 38.47975842300012, 0]
+      },
+      "properties": {
+        "Name": "100-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.94673602900015, 38.55363911400011, 0]
+      },
+      "properties": {
+        "Name": "101-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.92223917500014, 38.53528331900008, 0]
+      },
+      "properties": {
+        "Name": "102-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.01460513900014, 38.47320883000008, 0]
+      },
+      "properties": {
+        "Name": "103-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.00630532000015, 38.46446930800008, 0]
+      },
+      "properties": {
+        "Name": "106-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.01367415700015, 38.46771307300006, 0]
+      },
+      "properties": {
+        "Name": "107-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.94629659900012, 38.55489206900009, 0]
+      },
+      "properties": {
+        "Name": "108-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.94500298800011, 38.55533857700007, 0]
+      },
+      "properties": {
+        "Name": "109-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.94537099200012, 38.552780136000045, 0]
+      },
+      "properties": {
+        "Name": "110-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.0296865420001, 38.46720069000005, 0]
+      },
+      "properties": {
+        "Name": "111-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.0233061240001, 38.46499309100009, 0]
+      },
+      "properties": {
+        "Name": "112-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.00935863100013, 38.4604928420001, 0]
+      },
+      "properties": {
+        "Name": "113-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.95977919600011, 38.5545592440001, 0]
+      },
+      "properties": {
+        "Name": "114-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.91037840700012, 38.513624449000105, 0]
+      },
+      "properties": {
+        "Name": "115-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.9438956620001, 38.55312033200008, 0]
+      },
+      "properties": {
+        "Name": "116-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.90833320700013, 38.525371157000095, 0]
+      },
+      "properties": {
+        "Name": "118-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.92212622500011, 38.520169729000074, 0]
+      },
+      "properties": {
+        "Name": "119-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.98178634000011, 38.550020057000076, 0]
+      },
+      "properties": {
+        "Name": "120-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.97837287900013, 38.54371740500009, 0]
+      },
+      "properties": {
+        "Name": "121-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.98708782600012, 38.54559504700009, 0]
+      },
+      "properties": {
+        "Name": "122-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.92155142500015, 38.53280914600006, 0]
+      },
+      "properties": {
+        "Name": "123-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.99807635000013, 38.54892729200007, 0]
+      },
+      "properties": {
+        "Name": "124-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.99488114100012, 38.54230005400011, 0]
+      },
+      "properties": {
+        "Name": "125-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.98424782700012, 38.53787529600008, 0]
+      },
+      "properties": {
+        "Name": "126-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.00419289500014, 38.54484388400008, 0]
+      },
+      "properties": {
+        "Name": "127-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.01464168400015, 38.533331479000054, 0]
+      },
+      "properties": {
+        "Name": "128-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.00098729500014, 38.53795797400008, 0]
+      },
+      "properties": {
+        "Name": "129-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.99243471000013, 38.53162272300008, 0]
+      },
+      "properties": {
+        "Name": "130-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.89397438900012, 38.53877951400009, 0]
+      },
+      "properties": {
+        "Name": "131-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.0096687310001, 38.5297116080001, 0]
+      },
+      "properties": {
+        "Name": "132-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.99829154900011, 38.5251178880001, 0]
+      },
+      "properties": {
+        "Name": "133-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.01592617500013, 38.52244045500007, 0]
+      },
+      "properties": {
+        "Name": "134-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.00772035300014, 38.52150990800006, 0]
+      },
+      "properties": {
+        "Name": "135-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.01164395500012, 38.51836386600011, 0]
+      },
+      "properties": {
+        "Name": "136-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.00039890600011, 38.513649056000105, 0]
+      },
+      "properties": {
+        "Name": "137-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.01704666100012, 38.51309581300009, 0]
+      },
+      "properties": {
+        "Name": "138-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.00626104000015, 38.508181618000066, 0]
+      },
+      "properties": {
+        "Name": "139-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.99911578500014, 38.507618420000064, 0]
+      },
+      "properties": {
+        "Name": "140-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.9900170850001, 38.50497317300009, 0]
+      },
+      "properties": {
+        "Name": "141-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.90593451900008, 38.5338416220001, 0]
+      },
+      "properties": {
+        "Name": "144-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.90840177000014, 38.535152840000116, 0]
+      },
+      "properties": {
+        "Name": "145-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.88522823800014, 38.52059233400011, 0]
+      },
+      "properties": {
+        "Name": "146-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.98683179100011, 38.4973168120001, 0]
+      },
+      "properties": {
+        "Name": "151-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.9952432390001, 38.50106275900007, 0]
+      },
+      "properties": {
+        "Name": "152-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.00451372700013, 38.50189169300009, 0]
+      },
+      "properties": {
+        "Name": "153-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.01106921500015, 38.50132739100011, 0]
+      },
+      "properties": {
+        "Name": "154-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.02422941100014, 38.508239570000086, 0]
+      },
+      "properties": {
+        "Name": "155-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.02870438400011, 38.50315150700008, 0]
+      },
+      "properties": {
+        "Name": "156-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.02007720900015, 38.49968063700007, 0]
+      },
+      "properties": {
+        "Name": "157-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.01232522500011, 38.4975322330001, 0]
+      },
+      "properties": {
+        "Name": "158-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.00489279800014, 38.49555923300009, 0]
+      },
+      "properties": {
+        "Name": "159-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.9917361300001, 38.495016615000075, 0]
+      },
+      "properties": {
+        "Name": "160-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.95768065000011, 38.47572995000011, 0]
+      },
+      "properties": {
+        "Name": "161-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.91139270800012, 38.50818958000011, 0]
+      },
+      "properties": {
+        "Name": "162-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.90887535600014, 38.53385341400011, 0]
+      },
+      "properties": {
+        "Name": "163-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.96771936400013, 38.47757480500012, 0]
+      },
+      "properties": {
+        "Name": "164-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.98221885900013, 38.47768779400011, 0]
+      },
+      "properties": {
+        "Name": "165-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.96572919600011, 38.49228877700009, 0]
+      },
+      "properties": {
+        "Name": "166-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.99478806300012, 38.48422893600013, 0]
+      },
+      "properties": {
+        "Name": "167-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.00190520200012, 38.48732566500011, 0]
+      },
+      "properties": {
+        "Name": "168-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.0088388380001, 38.49127443100011, 0]
+      },
+      "properties": {
+        "Name": "169-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.02881624100013, 38.49720341800007, 0]
+      },
+      "properties": {
+        "Name": "170-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.02816136600012, 38.49101450800008, 0]
+      },
+      "properties": {
+        "Name": "171-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.01809074900012, 38.48535870200007, 0]
+      },
+      "properties": {
+        "Name": "172-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.00916330400015, 38.4836404320001, 0]
+      },
+      "properties": {
+        "Name": "173-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.00006095500011, 38.48172281200007, 0]
+      },
+      "properties": {
+        "Name": "174-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.99062541900015, 38.480211277000116, 0]
+      },
+      "properties": {
+        "Name": "175-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.9206317930001, 38.53438522700006, 0]
+      },
+      "properties": {
+        "Name": "178-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.90041983200013, 38.52714693100009, 0]
+      },
+      "properties": {
+        "Name": "179-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.99793672400011, 38.47567912900011, 0]
+      },
+      "properties": {
+        "Name": "182-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.00764942500014, 38.477222483000084, 0]
+      },
+      "properties": {
+        "Name": "183-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.01579514500014, 38.479307668000075, 0]
+      },
+      "properties": {
+        "Name": "184-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.02691093200013, 38.4833586550001, 0]
+      },
+      "properties": {
+        "Name": "185-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.95129217200015, 38.509327052000096, 0]
+      },
+      "properties": {
+        "Name": "190-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.9652128510001, 38.5191662820001, 0]
+      },
+      "properties": {
+        "Name": "191-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.96040051500012, 38.50313998300007, 0]
+      },
+      "properties": {
+        "Name": "192-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.94113130500013, 38.504819294000114, 0]
+      },
+      "properties": {
+        "Name": "193-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.93629590100012, 38.505682920000076, 0]
+      },
+      "properties": {
+        "Name": "194-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.94363778300011, 38.5135804340001, 0]
+      },
+      "properties": {
+        "Name": "195-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.93841572000014, 38.5181705530001, 0]
+      },
+      "properties": {
+        "Name": "196-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.93956207000015, 38.52595447100008, 0]
+      },
+      "properties": {
+        "Name": "197-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.95011959800014, 38.529675282000056, 0]
+      },
+      "properties": {
+        "Name": "198-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.9402832070001, 38.532226671000075, 0]
+      },
+      "properties": {
+        "Name": "199-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.95173781400013, 38.53661182300008, 0]
+      },
+      "properties": {
+        "Name": "200-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.9285758810001, 38.5185242970001, 0]
+      },
+      "properties": {
+        "Name": "201-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.9260977140001, 38.52585971800009, 0]
+      },
+      "properties": {
+        "Name": "202-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.91731874400013, 38.52338415200009, 0]
+      },
+      "properties": {
+        "Name": "203-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.92382760300013, 38.53016747500008, 0]
+      },
+      "properties": {
+        "Name": "207-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.93299093300011, 38.53286446000008, 0]
+      },
+      "properties": {
+        "Name": "208-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.02717959900015, 38.4760170810001, 0]
+      },
+      "properties": {
+        "Name": "209-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.92325623100011, 38.532968820000114, 0]
+      },
+      "properties": {
+        "Name": "210-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.93330562300014, 38.5427130460001, 0]
+      },
+      "properties": {
+        "Name": "211-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.94102485500015, 38.54111792300009, 0]
+      },
+      "properties": {
+        "Name": "212-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.94328273900011, 38.54834549300009, 0]
+      },
+      "properties": {
+        "Name": "218-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.97758890300014, 38.556764406000106, 0]
+      },
+      "properties": {
+        "Name": "219-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.00545355400011, 38.44933773900008, 0]
+      },
+      "properties": {
+        "Name": "220-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.01717732600015, 38.436996623000056, 0]
+      },
+      "properties": {
+        "Name": "221-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.89283154200012, 38.537371469000085, 0]
+      },
+      "properties": {
+        "Name": "225-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.8939645010001, 38.53803020800011, 0]
+      },
+      "properties": {
+        "Name": "226-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.02033096000015, 38.550939375000084, 0]
+      },
+      "properties": {
+        "Name": "227-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.97803274900015, 38.56646450900012, 0]
+      },
+      "properties": {
+        "Name": "233-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.9759299280001, 38.5648885470001, 0]
+      },
+      "properties": {
+        "Name": "236-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.88936851000012, 38.54266574000012, 0]
+      },
+      "properties": {
+        "Name": "240-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.90432683200011, 38.53961548800008, 0]
+      },
+      "properties": {
+        "Name": "244-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.91965597000014, 38.540090396000075, 0]
+      },
+      "properties": {
+        "Name": "251-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.93826488500014, 38.54576253100007, 0]
+      },
+      "properties": {
+        "Name": "252-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.94233223900012, 38.54354918600009, 0]
+      },
+      "properties": {
+        "Name": "253-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.94501172800011, 38.53359138800008, 0]
+      },
+      "properties": {
+        "Name": "254-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.95392830600014, 38.53262471300011, 0]
+      },
+      "properties": {
+        "Name": "255-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.95819955500015, 38.52565049100011, 0]
+      },
+      "properties": {
+        "Name": "256-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.95961198400012, 38.5261204760001, 0]
+      },
+      "properties": {
+        "Name": "256БИС-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.93611961100011, 38.53389445000007, 0]
+      },
+      "properties": {
+        "Name": "257-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.93503177200013, 38.52928107500006, 0]
+      },
+      "properties": {
+        "Name": "258-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.9465358330001, 38.507754105000096, 0]
+      },
+      "properties": {
+        "Name": "259-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.93101772500012, 38.52135787600006, 0]
+      },
+      "properties": {
+        "Name": "260-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.94880983200012, 38.51869594500008, 0]
+      },
+      "properties": {
+        "Name": "261-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.89108265400012, 38.52967695100008, 0]
+      },
+      "properties": {
+        "Name": "263-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.89012770400014, 38.52835173000008, 0]
+      },
+      "properties": {
+        "Name": "264-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.8887905320001, 38.527881167000054, 0]
+      },
+      "properties": {
+        "Name": "265-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.88668408200012, 38.52814111600008, 0]
+      },
+      "properties": {
+        "Name": "266-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.88836526900015, 38.529973343000094, 0]
+      },
+      "properties": {
+        "Name": "267-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.8897011050001, 38.5305819710001, 0]
+      },
+      "properties": {
+        "Name": "268-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.97359984300012, 38.5365621290001, 0]
+      },
+      "properties": {
+        "Name": "275-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.93844093300011, 38.511794461000115, 0]
+      },
+      "properties": {
+        "Name": "276-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.9650945080001, 38.523156634000074, 0]
+      },
+      "properties": {
+        "Name": "277-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.99356729000012, 38.51824181400012, 0]
+      },
+      "properties": {
+        "Name": "278-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.98565581700014, 38.4930164150001, 0]
+      },
+      "properties": {
+        "Name": "279-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.95708020900015, 38.5091137050001, 0]
+      },
+      "properties": {
+        "Name": "280-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.98562047300011, 38.480681682000096, 0]
+      },
+      "properties": {
+        "Name": "281-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.99892161900011, 38.499914377000074, 0]
+      },
+      "properties": {
+        "Name": "282-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.99244938500011, 38.50897626600008, 0]
+      },
+      "properties": {
+        "Name": "283-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.99280193900012, 38.49078217900009, 0]
+      },
+      "properties": {
+        "Name": "284-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.91849326600011, 38.517198719000106, 0]
+      },
+      "properties": {
+        "Name": "285-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.91559329000013, 38.53395030400006, 0]
+      },
+      "properties": {
+        "Name": "286-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.9160952590001, 38.5302173850001, 0]
+      },
+      "properties": {
+        "Name": "287-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.92831513900012, 38.54274265600006, 0]
+      },
+      "properties": {
+        "Name": "288-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.93360077000013, 38.5392688000001, 0]
+      },
+      "properties": {
+        "Name": "289-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.97021466000014, 38.54308240900011, 0]
+      },
+      "properties": {
+        "Name": "290-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.00195353400012, 38.53411539800007, 0]
+      },
+      "properties": {
+        "Name": "291-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.94396118300011, 38.52638124100005, 0]
+      },
+      "properties": {
+        "Name": "292-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.93429270300011, 38.5155846220001, 0]
+      },
+      "properties": {
+        "Name": "293-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.00156575000013, 38.52168227100007, 0]
+      },
+      "properties": {
+        "Name": "294-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.0041457380001, 38.5157893310001, 0]
+      },
+      "properties": {
+        "Name": "295-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.99606677700012, 38.4973231540001, 0]
+      },
+      "properties": {
+        "Name": "296-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.93512295100011, 38.52276662300008, 0]
+      },
+      "properties": {
+        "Name": "297-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.92944310600014, 38.53080707400009, 0]
+      },
+      "properties": {
+        "Name": "298-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.04709175300015, 38.5283163180001, 0]
+      },
+      "properties": {
+        "Name": "300-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.06688376900014, 38.5491494080001, 0]
+      },
+      "properties": {
+        "Name": "301-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.96181458400015, 38.506084335000075, 0]
+      },
+      "properties": {
+        "Name": "303-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.96639214300014, 38.52627073600009, 0]
+      },
+      "properties": {
+        "Name": "304-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.99880123600015, 38.51850670400009, 0]
+      },
+      "properties": {
+        "Name": "305-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.93550840600011, 38.52549903700007, 0]
+      },
+      "properties": {
+        "Name": "306-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.92973606600009, 38.51213693700008, 0]
+      },
+      "properties": {
+        "Name": "307-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.96617505100012, 38.514362412000054, 0]
+      },
+      "properties": {
+        "Name": "308-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.0118018560001, 38.50577360800007, 0]
+      },
+      "properties": {
+        "Name": "309-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.94174357700012, 38.51745477200009, 0]
+      },
+      "properties": {
+        "Name": "310-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.0042411880001, 38.48503277700011, 0]
+      },
+      "properties": {
+        "Name": "311-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.0180608350001, 38.505419347000064, 0]
+      },
+      "properties": {
+        "Name": "312-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.02119470000014, 38.49206583600008, 0]
+      },
+      "properties": {
+        "Name": "313-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.0081722660001, 38.53747740700008, 0]
+      },
+      "properties": {
+        "Name": "314-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.98419194300011, 38.555261066000114, 0]
+      },
+      "properties": {
+        "Name": "315-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.97646724600015, 38.530739360000084, 0]
+      },
+      "properties": {
+        "Name": "316-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.94216933000014, 38.52216735600008, 0]
+      },
+      "properties": {
+        "Name": "317-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.96039756200014, 38.51507477100009, 0]
+      },
+      "properties": {
+        "Name": "318-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.98162695400009, 38.573591895000085, 0]
+      },
+      "properties": {
+        "Name": "319-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.00750469700012, 38.533674331000086, 0]
+      },
+      "properties": {
+        "Name": "320-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.00141040300014, 38.5542922010001, 0]
+      },
+      "properties": {
+        "Name": "321-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.9921904210001, 38.551876791000076, 0]
+      },
+      "properties": {
+        "Name": "322-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.00281118000011, 38.52793029600011, 0]
+      },
+      "properties": {
+        "Name": "323-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.99275352400015, 38.5466254460001, 0]
+      },
+      "properties": {
+        "Name": "324-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.98337259900013, 38.48794193500007, 0]
+      },
+      "properties": {
+        "Name": "325-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.97995817900012, 38.519984459000085, 0]
+      },
+      "properties": {
+        "Name": "380-Шуртан",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.99842646500015, 38.538001921000095, 0]
+      },
+      "properties": {
+        "Name": "ХЗ какая скважина",
+        "FolderPath": "шуртан.kmz/Шуртан",
+        "SymbolID": 0,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    }
+  ]
+}

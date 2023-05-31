@@ -1,0 +1,743 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.99598852400011, 38.49576792900011, 0]
+      },
+      "properties": {
+        "Name": "СП-15",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ/Месторождение Шуртан",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.99996651300012, 38.47550514500009, 0]
+      },
+      "properties": {
+        "Name": "СП-26",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ/Месторождение Шуртан",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.9481084470001, 38.51003657600009, 0]
+      },
+      "properties": {
+        "Name": "СП-20",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ/Месторождение Шуртан",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.88675694700011, 38.520630308000115, 0]
+      },
+      "properties": {
+        "Name": "БТ-17",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ/Месторождение Шуртан",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.9072971020001, 38.53439795300008, 0]
+      },
+      "properties": {
+        "Name": "БТ-19",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ/Месторождение Шуртан",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.92951129600011, 38.523232708000116, 0]
+      },
+      "properties": {
+        "Name": "СП-9",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ/Месторождение Шуртан",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.9226423130001, 38.533823962000085, 0]
+      },
+      "properties": {
+        "Name": "​БТ-5",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ/Месторождение Шуртан",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.99687896500012, 38.522477101000106, 0]
+      },
+      "properties": {
+        "Name": "СП-12",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ/Месторождение Шуртан",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.95822124300015, 38.534867240000075, 0]
+      },
+      "properties": {
+        "Name": "СП-10",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ/Месторождение Шуртан",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.98425393500014, 38.515224722000056, 0]
+      },
+      "properties": {
+        "Name": "СП-22",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ/Месторождение Шуртан",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.96611747100015, 38.47898067800006, 0]
+      },
+      "properties": {
+        "Name": "СП-24",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ/Месторождение Шуртан",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.9814511250001, 38.54144087100011, 0]
+      },
+      "properties": {
+        "Name": "СП-3",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ/Месторождение Шуртан",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.03705202800013, 38.54502245500007, 0]
+      },
+      "properties": {
+        "Name": "СП-4",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ/Месторождение Шуртан",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.01737351700012, 38.49135520600007, 0]
+      },
+      "properties": {
+        "Name": "СП-2",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ/Месторождение Шуртан",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.88881876300015, 38.5290306950001, 0]
+      },
+      "properties": {
+        "Name": "БТ-34",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ/Месторождение Шуртан",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.01574141800013, 38.50325387100008, 0]
+      },
+      "properties": {
+        "Name": "СП-1",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ/Месторождение Шуртан",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.01743926500014, 38.52855446800007, 0]
+      },
+      "properties": {
+        "Name": "СП-27",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ/Месторождение Шуртан",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.97768820700009, 38.563828870000094, 0]
+      },
+      "properties": {
+        "Name": "БТ-21",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ/Месторождение Шуртан",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.89218530800015, 38.53848715000009, 0]
+      },
+      "properties": {
+        "Name": "БТ-16",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ/Месторождение Шуртан",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.94495393900013, 38.55391191400006, 0]
+      },
+      "properties": {
+        "Name": "БТ-30",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ/Месторождение Шуртан",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.00225885900011, 38.51229708500009, 0]
+      },
+      "properties": {
+        "Name": "СП-14",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ/Месторождение Шуртан",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.9376026490001, 38.542284759000076, 0]
+      },
+      "properties": {
+        "Name": "СП-6",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ/Месторождение Шуртан",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.95749451500014, 38.54838747000011, 0]
+      },
+      "properties": {
+        "Name": "СП-25",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ/Месторождение Шуртан",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.15672983800012, 38.481658700000054, 0]
+      },
+      "properties": {
+        "Name": "БВН Бузахур",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ/Бузахурская группа",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.16079462100011, 38.4816927480001, 0]
+      },
+      "properties": {
+        "Name": "УППГ Бузахур",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ/Бузахурская группа",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.26218951300014, 38.488795882000076, 0]
+      },
+      "properties": {
+        "Name": "Восточный Бузахур",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ/Бузахурская группа",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.23425458200013, 38.59422160900007, 0]
+      },
+      "properties": {
+        "Name": "УППГ Ермок",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ/Бузахурская группа",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.13034562600014, 38.465325820000075, 0]
+      },
+      "properties": {
+        "Name": "СП Тарнасай",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ/Бузахурская группа",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.16780007900014, 38.57899301600006, 0]
+      },
+      "properties": {
+        "Name": "СП Чунагар",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ/Бузахурская группа",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.10510995500012, 38.28902761200006, 0]
+      },
+      "properties": {
+        "Name": "УППГ Южная Тандырча",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.95015305400013, 38.55879161800008, 0]
+      },
+      "properties": {
+        "Name": "ДКС-1 Батеман",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.95043645200015, 38.56223624100011, 0]
+      },
+      "properties": {
+        "Name": "ДКС-2 (КМПО)",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.94820456300012, 38.55335105200007, 0]
+      },
+      "properties": {
+        "Name": "ДКС Северный Нишан",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.9839015500001, 38.5090507730001, 0]
+      },
+      "properties": {
+        "Name": "УППГ-1 Шуртан",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.95521977300014, 38.53964257800007, 0]
+      },
+      "properties": {
+        "Name": "УППГ-2 Шуртан",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.95342326000015, 38.68424935400006, 0]
+      },
+      "properties": {
+        "Name": "ГС Шуртан",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.79042501900012, 38.68668594100011, 0]
+      },
+      "properties": {
+        "Name": "Каратепа",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.82787219300015, 38.6696366260001, 0]
+      },
+      "properties": {
+        "Name": "Рубоий",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.10713005100014, 38.28922587900011, 0]
+      },
+      "properties": {
+        "Name": "СП-1 Южный Тандырча",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.91656600800015, 38.676276256000094, 0]
+      },
+      "properties": {
+        "Name": "Комплекс Ширкент",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.19439159500013, 38.4583522930001, 0]
+      },
+      "properties": {
+        "Name": "м-р Марварид",
+        "FolderPath": "Шуртанское НГДУ.kmz/Шуртанское НГДУ",
+        "SymbolID": 2,
+        "AltMode": -1,
+        "Base": 0,
+        "Snippet": null,
+        "PopupInfo": null,
+        "HasLabel": -1,
+        "LabelID": 0
+      }
+    }
+  ]
+}
